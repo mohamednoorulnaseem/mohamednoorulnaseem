@@ -37,3 +37,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamednoorulnaseem&layout=compact&theme=dark)
 
 ---
+
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=mohamednoorulnaseem&theme=darkhub&no-frame=true&no-bg=true&margin-w=15)
