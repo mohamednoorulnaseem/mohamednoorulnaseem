@@ -40,3 +40,20 @@
 
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=mohamednoorulnaseem&theme=darkhub&no-frame=true&no-bg=true&margin-w=15)
+
+---
+
+### 🔥 GitHub Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamednoorulnaseem&theme=dark)
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mohamednoorulnaseem&style=flat&color=green)
+
+---
+
+### 🛠️ Languages and Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
