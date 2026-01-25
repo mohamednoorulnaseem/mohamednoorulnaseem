@@ -1,14 +1,14 @@
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Noorul%20Naseem&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=180&section=header&text=Mohamed%20Noorul%20Naseem&fontSize=42&fontColor=58a6ff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20ML%20%26%20Generative%20AI%20Systems&descSize=18&descAlignY=55"/>
 
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%A4%96+AI+Engineer+%7C+ML+%26+Generative+AI+Systems;%F0%9F%9A%80+Building+Production-Ready+AI+Solutions;%F0%9F%A7%A0+From+Data+to+Deployment" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%A4%96+Building+Production-Ready+AI+Systems;%F0%9F%9A%80+ML+Pipelines+%7C+RAG+%7C+APIs+%7C+MLOps;%F0%9F%A7%A0+From+Data+to+Deployment" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Profile Views & Social Badges -->
+<!-- Social Badges -->
 <div align="center">
   <a href="https://github.com/mohamednoorulnaseem">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -24,16 +24,16 @@
 
 <br/>
 
-<!-- Trophies -->
+<!-- Trophies with Best Theme -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohamednoorulnaseem&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mohamednoorulnaseem&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
   </a>
 </div>
 
 ---
 
-<!-- About Me Section with Code Block -->
+<!-- About Me Section -->
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ## 🧑‍💻 About Me
@@ -58,7 +58,7 @@ class MohamedNoorulNaseem:
 
 - 🌱 **Currently Learning:** Advanced MLOps, scalable RAG architectures, and model monitoring
 
-- � **Looking to Collaborate:** Open-source AI, ML, and Generative AI projects
+- 👯 **Looking to Collaborate:** Open-source AI, ML, and Generative AI projects
 
 - 💬 **Ask Me About:** Machine Learning, RAG-based GenAI systems, FastAPI, and MLOps
 
@@ -150,13 +150,57 @@ class MohamedNoorulNaseem:
 
 ## 📊 GitHub Analytics
 
+<!-- Responsive Theme: Dark/Light Mode Support -->
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mohamednoorulnaseem&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamednoorulnaseem&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  
+  <!-- Stats Card with Radical Theme (Best Gradient) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohamednoorulnaseem&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&bg_color=0d1117&ring_color=ff6b6b&show=reviews,prs_merged" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mohamednoorulnaseem&show_icons=true&theme=vue&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&show=reviews,prs_merged" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mohamednoorulnaseem&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&bg_color=0d1117&ring_color=ff6b6b&show=reviews,prs_merged" alt="GitHub Stats" />
+  </picture>
+  
+  <!-- Streak Stats with Matching Theme -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mohamednoorulnaseem&theme=radical&hide_border=true&border_radius=15&background=0d1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mohamednoorulnaseem&theme=vue&hide_border=true&border_radius=15" />
+    <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamednoorulnaseem&theme=radical&hide_border=true&border_radius=15&background=0d1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" alt="GitHub Streak" />
+  </picture>
+
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamednoorulnaseem&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" />
+  
+  <!-- Top Languages with Compact Donut Layout -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamednoorulnaseem&layout=donut&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamednoorulnaseem&layout=donut&theme=vue&hide_border=true&border_radius=15&langs_count=8" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamednoorulnaseem&layout=donut&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  </picture>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/mohamednoorulnaseem/airfoil_rl">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mohamednoorulnaseem&repo=airfoil_rl&theme=radical&hide_border=true&border_radius=10&bg_color=0d1117" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mohamednoorulnaseem&repo=airfoil_rl&theme=vue&hide_border=true&border_radius=10" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamednoorulnaseem&repo=airfoil_rl&theme=radical&hide_border=true&border_radius=10&bg_color=0d1117" />
+    </picture>
+  </a>
+  <a href="https://github.com/mohamednoorulnaseem/rag-expert-system">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mohamednoorulnaseem&repo=rag-expert-system&theme=radical&hide_border=true&border_radius=10&bg_color=0d1117" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mohamednoorulnaseem&repo=rag-expert-system&theme=vue&hide_border=true&border_radius=10" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamednoorulnaseem&repo=rag-expert-system&theme=radical&hide_border=true&border_radius=10&bg_color=0d1117" />
+    </picture>
+  </a>
 </div>
 
 ---
@@ -164,12 +208,16 @@ class MohamedNoorulNaseem:
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamednoorulnaseem&custom_title=Mohamed's%20Contribution%20Graph&theme=tokyo-night&hide_border=true&border_radius=10&area=true" alt="Activity Graph" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mohamednoorulnaseem&custom_title=Mohamed's%20Contribution%20Graph&theme=radical&hide_border=true&border_radius=15&area=true&bg_color=0d1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mohamednoorulnaseem&custom_title=Mohamed's%20Contribution%20Graph&theme=vue&hide_border=true&border_radius=15&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamednoorulnaseem&custom_title=Mohamed's%20Contribution%20Graph&theme=radical&hide_border=true&border_radius=15&area=true&bg_color=0d1117" alt="Activity Graph" width="100%"/>
+  </picture>
 </div>
 
 ---
 
-## � Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -184,13 +232,17 @@ class MohamedNoorulNaseem:
 ## 💭 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  </picture>
 </div>
 
 ---
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer"/>
 
 <div align="center">
   <b>💖 Thanks for visiting! Let's connect and build something amazing together! 💖</b>
