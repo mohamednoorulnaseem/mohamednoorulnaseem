@@ -42,8 +42,6 @@ class AIEngineer:
         return "Building production-ready AI systems with RAG & MLOps"
 ```
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-
 - 🔭 **Working On:** Production AI systems with ML pipelines & APIs
 - 🌱 **Learning:** Advanced MLOps, scalable RAG architectures
 - 💬 **Ask Me About:** ML, GenAI, RAG systems, FastAPI
@@ -117,7 +115,7 @@ class AIEngineer:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamednoorulnaseem&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamednoorulnaseem&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies"/>
 </div>
 
 ---
