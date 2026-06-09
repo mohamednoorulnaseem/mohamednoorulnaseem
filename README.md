@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00E5A0&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Building+RAG+%26+LLM+Systems;Obsessed+with+R%26D+%7C+Breaking+things+to+learn;Scalable+Tech+%C3%97+AI-Driven+Growth;Chennai%2C+India+%7C+Building+from+first+principles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00E5A0&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Building+RAG+%26+LLM+Systems;Obsessed+with+R%26D+%7C+Breaking+things+to+learn;Scalable+Tech+%C3%97+AI-Driven+Growth;Building+from+first+principles" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,7 +20,7 @@
   <a href="mailto:noorulnaseem11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Chennai%2C%20India-00e5a0?style=for-the-badge&logo=googlemaps&logoColor=0d1117"/>
+
   <img src="https://komarev.com/ghpvc/?username=mohamednoorulnaseem&style=for-the-badge&color=0a7c5c&label=PROFILE+VIEWS"/>
 </div>
 
@@ -65,7 +65,6 @@ $ cat status.txt
 ```python
 naseem = {
     "role"       : "AI Engineer × Chief Growth Strategist @ ZynKU",
-    "location"   : "Chennai, India 🇮🇳",
     "building"   : ["RAG systems with real retrieval accuracy",
                     "LLM fine-tuning for domain-specific problems",
                     "AI infrastructure that ships, not just demos"],
