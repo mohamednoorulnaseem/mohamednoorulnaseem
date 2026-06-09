@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a7c5c,100:0d1117&height=200&section=header&text=Mohamed%20Noorul%20Naseem&fontSize=38&fontColor=00e5a0&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20·%20RAG%20·%20LLMs%20·%20R%26D%20·%20Building%20from%20first%20principles&descAlignY=58&descSize=14&descColor=6b7a8f" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a7c5c,100:0d1117&height=220&section=header&text=Mohamed%20Noorul%20Naseem&fontSize=38&fontColor=00e5a0&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%C2%B7%20RAG%20%C2%B7%20LLMs%20%C2%B7%20R%26D%20%C2%B7%20Building%20from%20first%20principles&descAlignY=62&descSize=14&descColor=6b7a8f" width="100%"/>
 </div>
 
 <!-- Typing animation -->
@@ -232,8 +232,8 @@ Agent → Shape Parameters → Aerodynamic Simulation
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamednoorulnaseem&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamednoorulnaseem&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5a0&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamednoorulnaseem&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohamednoorulnaseem&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5a0&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
 <div align="center">
